@@ -1,12 +1,14 @@
-
 # Starter Guide for Using the Kodak PIXPRO AZ528
 
-[Download Official Manual](https://kodakpixpro.com/docs/manuals/pixpro_remote_smart_lens_en.pdf)
+[Official Manual](https://kodakpixpro.com/docs/manuals/astrozoom/az528/az528-manual-en.pdf)
 
 ## 1. Getting to Know Your Camera
-- **Turn On the Camera**: Press the `Power Button` (Button #4 in the manual) on the top of the camera.
-- **Mode Dial**: Turn the `Mode Dial` (Button #6 in the manual) to the "Auto" mode (usually represented by a green camera icon). This mode helps you focus on capturing great photos without worrying about manual settings.
-- **Zoom**: Use the `Zoom Lever` (Button #5 in the manual) around the shutter button. Move it to the right (T) to zoom in and to the left (W) to zoom out.
+- **Charging**: The camera contains a rechargable battery and can charge via the USB port on the side.  Charging from dead to full will take around 4 hours.  The `Orange Light` next to the power button will remain oranage until the camera is fully charged.  Changing any of the dial settings will also cause the camera to show `Charging` on the rear screen.  
+- **Page 17-18 shows what all the buttons and dials do** 
+- **Turn On the Camera**: Press the `Power Button` - silver button with (on\off) also(Button #7 in the manual pg. 17) on the top of the camera.
+- **Mode Dial**: Turn the `Mode Dial` (Button #14 in the manual p. 18) to the "Auto" mode (usually represented by a green camera icon). This mode helps you focus on capturing great photos without worrying about manual settings.
+- **Zoom**: Use the `Zoom Lever` (Button #3 in the manual) around the shutter button. Move it to the right (T) to zoom in and to the left (W) to zoom out.
+- **The Red Botton on the Top Right is a Quick Video Button** 
 
 ## 2. Basic Settings
 - **Image Quality**: Set the camera to the highest image quality. This can be done in the `Settings Menu` (Button #7 in the manual). Navigate to `Image Quality` and select the highest option.
@@ -14,7 +16,7 @@
 
 ## 3. Taking Your First Photo
 - **Hold the Camera Steady**: Hold the camera with both hands and keep your elbows close to your body. This helps to avoid blurry photos.
-- **Focus**: Half-press the `Shutter Button` (Button #3 in the manual) to focus. You’ll see the image on the screen become sharp. A green box may appear showing what is in focus.
+- **Focus**: Half-press the `Shutter Button` (Button #1 in the manual) to focus. You’ll see the image on the screen become sharp. A green box may appear showing what is in focus.
 - **Take the Photo**: Once the image is in focus, press the `Shutter Button` all the way down.
 
 ## 4. Exploring Different Modes
